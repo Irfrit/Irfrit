@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Patryk
 
-<!--
-**Irfrit/Irfrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the Military University of Technology (WAT) in Warsaw, Poland.
 
-Here are some ideas to get you started:
+Interested in quantitative development, financial markets, systems programming, and Linux, high-perfmornace code and how machine work on lower level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Modern C++ and data structures
+- Linux, concurrency, and performance engineering
+- Algorithms and problem solving
+- Quantitative finance and market microstructure
+
+## Technologies
+C++ · Python · C · Linux · Git · CMake · GDB
+
+## Selected work
+- [resolve-aacfix](https://github.com/Irfrit/resolve-aacfix): Linux compatibility tooling for DaVinci Resolve.
+- More systems and quantitative development projects in progress.
