@@ -1,4 +1,4 @@
-# Hi, I'm Patryk
+# Hi, I'm Irfrit
 
 Computer Science student at the Military University of Technology (WAT) in Warsaw, Poland.
 
