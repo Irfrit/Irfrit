@@ -2,7 +2,7 @@
 
 Computer Science student at the Military University of Technology (WAT) in Warsaw, Poland.
 
-Interested in quantitative development, financial markets, systems programming, and Linux.
+Interested in high performance computing, how software interacts with hardware on lower level, quantitative development, financial markets, systems programming, and Linux.
 
 Outside of tech, I'm a competitive volleyball player and student-athlete, balancing university, team training, and strength training.
 
