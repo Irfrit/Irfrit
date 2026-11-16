@@ -7,10 +7,10 @@ Interested in high performance computing, how software interacts with hardware o
 Outside of tech, I'm a competitive volleyball player and student-athlete, balancing university, team training, and strength training.
 
 ## Current focus
-- Modern C++ and data structures
+- Modern C++, competetive programming 
 - Linux, concurrency, and performance engineering
-- Algorithms and problem solving
-- Quantitative finance and market microstructure
+- low level machine learning
+- Quantitative finance 
 
 ## Technologies
 C++ · Python · C · Linux · Git · CMake · GDB
