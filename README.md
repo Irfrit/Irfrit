@@ -16,5 +16,6 @@ Outside of tech, I'm a competitive volleyball player and student-athlete, balanc
 C++ · Python · C · Linux · Git · CMake · GDB
 
 ## Selected work
+- [competetive programming](https://github.com/Irfrit/competitive-programming-solutions): All my solutions whilst learning competetive programming
 - [resolve-aacfix](https://github.com/Irfrit/resolve-aacfix): Linux compatibility tooling for DaVinci Resolve.
 - More systems and quantitative development projects in progress.
